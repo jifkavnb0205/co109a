@@ -295,3 +295,5 @@ CHIP DMux8Way {
     DMux(in=Df,sel=sel[0],a=g,b=h);
 }
 ```
+
+![](https://github.com/jifkavnb0205/co109a/blob/master/hw/hw2.JPG)
