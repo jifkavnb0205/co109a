@@ -83,3 +83,6 @@ CHIP DMux {
     And(a=sel, b=in, out=b);
 }
 ```
+
+![](hw1.1.JPG)
+![](hw1.JPG)
