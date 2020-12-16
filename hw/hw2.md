@@ -299,6 +299,6 @@ CHIP DMux8Way {
 ![](https://github.com/jifkavnb0205/co109a/blob/master/hw/hw2.JPG)
 ![](https://github.com/jifkavnb0205/co109a/blob/master/hw/hw2.1.JPG)  
  
-迪摩根定理證明
+迪摩根定律證明
 ---
 ![](https://github.com/jifkavnb0205/co109a/blob/master/hw/hw2.2.JPG)
