@@ -106,3 +106,5 @@ CHIP Inc16 {
    Add16(a=in,b[0]=true,b[1..15]=false,out=out);
 }
 ```
+---
+![](https://github.com/jifkavnb0205/co109a/blob/master/hw/hw3.jpg)
