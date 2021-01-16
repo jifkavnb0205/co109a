@@ -161,3 +161,6 @@ CHIP RAM512 {
     Mux8Way16(a=r0,b=r1,c=r2,d=r3,e=r4,f=r5,g=r6,h=r7,sel=address[6..8],out=out);
 }
 ```
+![](https://github.com/jifkavnb0205/co109a/blob/master/hw/hw6.1.png)
+![](https://github.com/jifkavnb0205/co109a/blob/master/hw/hw6.2.png)
+![](https://github.com/jifkavnb0205/co109a/blob/master/hw/hw6.3.png)
