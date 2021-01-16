@@ -33,3 +33,4 @@ D=M
 @12 
 D;JNE
 ```
+![](https://github.com/jifkavnb0205/co109a/blob/master/hw/hw8.png)
