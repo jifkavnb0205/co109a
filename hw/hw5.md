@@ -63,3 +63,4 @@ CHIP Register {
     Bit(in=in[15],load=load,out=out[15]);
 }
 ```
+![](https://github.com/jifkavnb0205/co109a/blob/master/hw/hw5.png)
