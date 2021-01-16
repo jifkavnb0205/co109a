@@ -134,5 +134,5 @@ CHIP ALU {
     Or(a=o81,b=o82,out=o1);
     Not(in=o1,out=zr);
 ```
-
+![](https://github.com/jifkavnb0205/co109a/blob/master/hw/hw4.jpg)
 
