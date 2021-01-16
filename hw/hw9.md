@@ -66,4 +66,5 @@ Fill
     //goto WHILE1;        
     @WHILE1
     0;JMP 
-    ```
+```
+![](https://github.com/jifkavnb0205/co109a/blob/master/hw/hw9.png)
