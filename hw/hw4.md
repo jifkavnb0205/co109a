@@ -135,4 +135,4 @@ CHIP ALU {
     Not(in=o1,out=zr);
 ```
 
-![](https://github.com/jifkavnb0205/co109a/blob/master/hw/hw4.jpg)
+
