@@ -20,4 +20,5 @@
 [第三章結束](https://github.com/jifkavnb0205/co109a/blob/master/hw/hw7.md)  
 [MEMORY](https://github.com/jifkavnb0205/co109a/blob/master/hw/hw10.md)  
 [CPU](https://github.com/jifkavnb0205/co109a/blob/master/hw/hw11.md)  
-[Computer](https://github.com/jifkavnb0205/co109a/blob/master/hw/hw12.md)
+[Computer](https://github.com/jifkavnb0205/co109a/blob/master/hw/hw12.md)  
+[HackCPU](https://github.com/jifkavnb0205/co109a/blob/master/hw/%E7%AC%AC%E5%85%AD%E7%AB%A0%E8%A3%9C%E5%85%85.md)
