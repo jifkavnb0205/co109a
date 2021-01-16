@@ -29,3 +29,4 @@ CHIP PC {
     Register(in=M3,load=true,out=PC,out=out);
 }
 ```
+![](https://github.com/jifkavnb0205/co109a/blob/master/hw/hw7.png)
